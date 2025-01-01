@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1681690935 source:/home/mohamed/Documents/asds2/GRAPH.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GHRAPHPRIM.h"
+	<limits.h>
+
+1681256072 source:/home/mohamed/Documents/asds2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"GHRAPHPRIM.h"
+
+1681663727 source:/home/mohamed/Documents/asds2/ELT.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+
+1679405182 /home/mohamed/Documents/asds2/ELTPRIM.h
+	"ELTSDD.h"
+
+1679405180 /home/mohamed/Documents/asds2/ELTSDD.h
+	"ELT.h"
+
+1681516688 /home/mohamed/Documents/asds2/ELT.h
+
+1681404098 /home/mohamed/Documents/asds2/GHRAPHPRIM.h
+	"GRAPHSDD.h"
+	"ELTPRIM.h"
+
+1679570454 /home/mohamed/Documents/asds2/GRAPHSDD.h
+	"GRAPH.h"
+
+1680638886 /home/mohamed/Documents/asds2/GRAPH.h
+	"ELTPRIM.h"
+
+1681663727 source:/home/mohamed/Documents/ASD/asds2/ELT.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+
+1679405182 /home/mohamed/Documents/ASD/asds2/ELTPRIM.h
+	"ELTSDD.h"
+
+1679405180 /home/mohamed/Documents/ASD/asds2/ELTSDD.h
+	"ELT.h"
+
+1681516688 /home/mohamed/Documents/ASD/asds2/ELT.h
+
+1681690935 source:/home/mohamed/Documents/ASD/asds2/GRAPH.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GHRAPHPRIM.h"
+	<limits.h>
+
+1681404098 /home/mohamed/Documents/ASD/asds2/GHRAPHPRIM.h
+	"GRAPHSDD.h"
+	"ELTPRIM.h"
+
+1679570454 /home/mohamed/Documents/ASD/asds2/GRAPHSDD.h
+	"GRAPH.h"
+
+1680638886 /home/mohamed/Documents/ASD/asds2/GRAPH.h
+	"ELTPRIM.h"
+
+1681256072 source:/home/mohamed/Documents/ASD/asds2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"GHRAPHPRIM.h"
+
